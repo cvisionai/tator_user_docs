@@ -6,6 +6,8 @@
 Tator User Documentation
 ===================================
 
+User documentation for Tator.
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents
